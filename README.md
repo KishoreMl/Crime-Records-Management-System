@@ -1,5 +1,5 @@
 # Police_Fir_Management
-This is Police Crime Record managment System application and Police database management System done using Java , JDBC and java Swings.
+This is a Police Crime records managment system application and Police database management System built using Java , JDBC and java Swings.
 
 Screenshots:
 ![cr1](https://user-images.githubusercontent.com/86340165/139388305-c25da6cd-d44c-46db-a532-b3cafe9f6a85.PNG)
